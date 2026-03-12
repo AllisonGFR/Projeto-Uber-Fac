@@ -12,8 +12,6 @@ My name is Allison.
 
 - Python
 - JavaScript
-- SQL
-- Git
 
 ---
 
@@ -22,9 +20,10 @@ My name is Allison.
 - Algorithms
 - Data Structures
 - Software Engineering
+- Artificial Intelligence
 
 ---
 
 ## 🌎 Connect with me
 
-LinkedIn: https://linkedin.com/in/seulink
+LinkedIn: linkedin.com/in/allison-felix-ricci-75975a23b/
